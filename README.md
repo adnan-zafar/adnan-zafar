@@ -1,8 +1,7 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQG4d612d8G3vQ/profile-displaybackgroundimage-shrink_200_800/0/1652015329740?e=1657756800&v=beta&t=RWlj0--wk9jMgCU-Wjv8lhLIk735epVbXOp9tv2Oejw)
 ##### Hi there 👋🏽,
 ### I'm Adnan Zafar
 
-I’m Adnan, An Software Engineering graduate, and a passionate programmer. I have a strong grip on python libraries for data scraping and storing in any format like .csv, .xlsx, .json, or database.
+I’m Adnan, a Software Engineering graduate, and a passionate programmer. I have a strong grip on Python libraries for data scraping and storing in any format like .csv, .xlsx, .json, or database.
 
 ⭐️ Social Media Scraping</br>
 ⭐️ E-Commerce Scraping</br>
